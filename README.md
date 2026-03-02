@@ -1,4 +1,4 @@
-<center> 👋 Hi there, I'm Harsh</center>
+<center>**👋 Hi there, I'm Harsh**</center>
 
 🚀 **DevOps Engineer | Ex-Diploma (IT) | Python | Automation Enthusiast**
 
