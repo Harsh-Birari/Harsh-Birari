@@ -1,19 +1,18 @@
-### 👋 Hi there, I'm [Your Name]
+### 👋 Hi there, I'm Harsh
 
 🚀 **DevOps Engineer | Ex-Diploma (IT) | Python | Automation Enthusiast**
 
-I'm a passionate DevOps practitioner who believes in automating everything. From manual processes to production-ready pipelines, I build infrastructure that just works. Currently leveling up my skills and looking for opportunities to contribute to real-world projects.
+I'm a passionate DevOps practitioner who believes in automating everything. From manual processes to production-ready pipelines, I build infrastructure that works. Currently leveling up my skills and looking for opportunities to contribute to real-world projects.
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **End-to-End CI/CD pipelines** with Jenkins, Docker, and Kubernetes on AWS
-- 🌱 I’m currently learning **Advanced Kubernetes** and **AWS Solutions Architecture**
+- 🌱 I’m currently learning **Advanced Kubernetes**,**AWS Services** and **Jenkins**
 - 👯 I’m looking to collaborate on **DevOps automation projects** and **Python scripting**
 - 💬 Ask me about **Linux, Docker, Terraform, AWS, or breaking things in staging**
-- ⚡ Fun fact: **I turned my Diploma into a DevOps career through hands-on projects**
-- 📫 How to reach me: **[LinkedIn](your-link) | [Email](your-email)**
+- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/harsh-birari-24oct2005) | [Email](devopsharsh0@gmail.com)**
 
 ---
 
