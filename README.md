@@ -37,7 +37,7 @@ I'm a passionate DevOps practitioner who believes in automating everything. From
 
 ---
 
-## 📌 Pinned Projects
+<!--## 📌 Pinned Projects
 
 Here are some projects that showcase my DevOps journey:
 
@@ -59,7 +59,7 @@ Here are some projects that showcase my DevOps journey:
 ### 🔧 [Git/GitLab Workflows]
 > Comprehensive guide and examples of Git branching strategies, merge requests, and GitLab CI/CD best practices.
 
----
+--- -->
 
 ## 📜 AWS Services I Work With
 
@@ -92,8 +92,8 @@ Here are some projects that showcase my DevOps journey:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harsh-birari-24oct2005)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](devopsharsh0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](your-gitlab-url)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](your-aws-learning-link)
