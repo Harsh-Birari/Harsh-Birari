@@ -1,6 +1,6 @@
-<center>### 👋 Hi there, I'm Harsh
+<center> ###👋 Hi there, I'm Harsh
 
-🚀 **DevOps Engineer | Ex-Diploma (IT) | Python | Automation Enthusiast**</center>
+🚀 **DevOps Engineer | Ex-Diploma (IT) | Python | Automation Enthusiast** </center>
 
 I'm a passionate DevOps practitioner who believes in automating everything. From manual processes to production-ready pipelines, I build infrastructure that works. Currently leveling up my skills and looking for opportunities to contribute to real-world projects.
 
